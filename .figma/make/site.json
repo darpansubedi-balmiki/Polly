@@ -1,0 +1,10 @@
+{
+  "description": "Automatically analyze and extract key insights from documents to streamline research and decision-making for professionals and businesses.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
